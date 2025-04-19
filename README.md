@@ -44,6 +44,6 @@ postgresql-setup/
 ├── tryout2.py        # Основной скрипт
 ├── README.md         # Этот файл
 👤 Автор
-Ivan Simankov
+Иван Симанков
 
 Email: simankov2006@gmail.com
